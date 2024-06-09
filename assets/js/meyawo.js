@@ -34,7 +34,7 @@ $(document).ready(function(){
     });
 
     // Dynamic Typing Effect
-    const roles = ["frontend web designer", "Cybersecurity professional", "Pytorch AI developer", "Distance Runner"];
+    const roles = ["frontend web designer", "Cybersecurity professional", "Pytorch AI developer", "Distance Runner", "ChatGPT pro 🤫"];
     let roleIndex = 0;
     let charIndex = 0;
     const typingSpeed = 100;
